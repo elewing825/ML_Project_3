@@ -12,6 +12,7 @@ The dataset is divided into two folders:
 - images/not pigs : images without the official Razorback logo (label = 0)
 
 Total images: 126
+
 Train/validation split: 80 percent training, 20 percent validation
 
 ## Image Preprocessing
