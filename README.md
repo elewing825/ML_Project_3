@@ -1,5 +1,4 @@
-# ML_Project_3
-# Razorback Logo Image Classification (Convolutional Neural Network)
+# ML_Project_3: Razorback Logo Image Classification (Convolutional Neural Network)
 
 ## Project Overview
 
