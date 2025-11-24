@@ -127,6 +127,11 @@ pillow
 
 ## Authors
 
-Group 11: 
+Group 11:
+
 William Donnell-Lonon  
 Emma Ewing
+
+## License
+
+This project is part of an academic assignment for machine learning coursework.
