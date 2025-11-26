@@ -34,7 +34,7 @@ All key hyperparameters and settings are defined in a dedicated config block:
 * `LEARNING_RATE = 1e-3`
 * `WEIGHT_DECAY = 1e-4`
 * `DROPOUT_RATE = 0.5`
-* `SEED = 42`
+* `SEED = 666`
 
 A `set_seed()` function ensures reproducibility across Python, NumPy, and PyTorch.
 
